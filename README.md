@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hui (Wendy) Wen</h1>
 <h3 align="center">A Girl trying to study hard!!!</h3>
 
-- 👩‍🎓 I’m currently **a MPH student at the George Washington University studying bioinformatics.**
+#### My field of study
+![My field of study](https://github.com/wendy713/wendy713/blob/main/assist-in-biostatistics-projects.jpeg)
+
+- 👩‍🎓 I’m currently **a MPH student at the George Washington University studying biostatistics.**
 
 - 🇨🇳 I’m from **China.**
 
